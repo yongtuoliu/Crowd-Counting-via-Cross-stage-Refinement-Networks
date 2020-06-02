@@ -13,8 +13,13 @@ Yongtuo Liu, Qiang Wen, Haoxin Chen, Wenxi Liu, Jing Qin, Guoqiang Han, and Shen
 The ShanghaiTec dataset can be downloaded from Baidu Disk: [link](https://pan.baidu.com/s/1nuAYslz).  
 Other counting-related datasets can be found in [link](https://github.com/gjy3035/Awesome-Crowd-Counting/blob/master/src/Datasets.md).  
 # Training
+```
+python train.py
+```
 # Testing
-# Notes
+```
+python test.py
+```
 # Citation
 @ARTICLE{9096602,  
   author={Y. {Liu} and Q. {Wen} and H. {Chen} and W. {Liu} and J. {Qin} and G. {Han} and S. {He}},  
