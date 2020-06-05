@@ -21,11 +21,11 @@ python train.py
 python test.py
 ```
 # Citation
-@ARTICLE{9096602,  
-  author={Y. {Liu} and Q. {Wen} and H. {Chen} and W. {Liu} and J. {Qin} and G. {Han} and S. {He}},  
-  journal={IEEE Transactions on Image Processing},   
-  title={Crowd Counting via Cross-stage Refinement Networks},   
-  year={2020},  
+@article{liu2020crowd,  
+  title={Crowd Counting via Cross-stage Refinement Networks},  
+  author={Liu, Yongtuo and Wen, Qiang and Chen, Haoxin and Liu, Wenxi and Qin, Jing and Han, Guoqiang and He, Shengfeng},  
+  journal={IEEE Transactions on Image Processing},  
+  year={2020}
 }
 # Contact
 For any questions with respect to this paper and code, please feel free to contact [Yongtuo Liu](mailto:csmanlyt@mail.scut.edu.cn).
